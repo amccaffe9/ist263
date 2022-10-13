@@ -1,0 +1,14 @@
+
+body {
+    background-color:#000000;
+    background-image: url("../Images/otto.png");
+    background-size: 100px;
+}
+
+.Orange { 
+    color:blue;
+    background-color:#000000;
+    border: 2px solid #ff0000;
+    padding: 10px;
+    margin: 20px
+}

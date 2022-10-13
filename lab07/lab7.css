@@ -1,0 +1,37 @@
+h1, h2{
+    color: #000000;
+}
+
+a:link{
+    color: #65EBB5;
+}
+
+a:hover {
+    background-color:#b042f5;
+}
+
+body {
+    background-color:#BABFE0;
+    color: #D11137;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+nav {
+    background-color: #000000; 
+}
+
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+nav a {color: #2C91C0;}
+
+
+a:visited {
+    color:#FFFFFF;
+}
+
+.special {color: purple}
+
+.evenrow {background-color:gray}

@@ -1,0 +1,13 @@
+body {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+h1{color:crimson;
+    font-size: 1.90em;
+}
+
+h2 {color:crimson;
+    font-size: 1.1em;
+}
+
+.special {color: purple}
+
+.evenrow {background-color:gray}
