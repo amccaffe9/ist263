@@ -1,0 +1,56 @@
+h1, h2{
+    color: #000000;
+}
+
+a:link{
+    color: #65EBB5;
+}
+
+a:hover {
+    background-color:#b042f5;
+}
+
+body {
+    background-color:#BABFE0;
+    color: #D11137;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+nav {
+    background-color: #000000; 
+}
+
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+nav a {color: #2C91C0;}
+
+
+a:visited {
+    color:#FFFFFF;
+}
+
+.special {color: purple}
+
+.evenrow {background-color:gray}
+
+.quote{
+    float: right;
+}
+
+.box1 {display:flex;}
+
+.box1 {text-align: center; border-radius: 25px; background-color:#FFFFFF; margin: 15px;}
+
+.address{margin: 20px;}
+.linkedin{padding-left: 3em; margin: 20px;}
+
+.box2 {display:flex;}
+.box2 {text-align: center; border-radius: 25px; background-color:#FFFFFF; margin: 15px;}
+
+.map {zoom: 0.9; margin: 15px; padding-left: 3em;}
+
+.reachout {text-align: center; padding-left: 3em;}
+
