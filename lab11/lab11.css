@@ -12,7 +12,7 @@ a:hover {
 
 body {
     background-color:#BABFE0;
-    color: #D11137;
+    color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 } 
 
@@ -72,7 +72,11 @@ a:visited {
 .description{display:flex;}
 .description{margin-left:130px; margin-right:535px;}
 
+.linkedin a{color:black}
+
 .image {max-width: 100%; /* largest will be its pixel size*/}
+
+.skip {color:#000000}
 
 @media only screen and (max-width: 1000px) 
     nav a {display: block}
