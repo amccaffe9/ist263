@@ -1,0 +1,10 @@
+.charlotteheader {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:crimson;
+    text-align: center;
+}
+
+body {background-color: cornsilk;}
+
+.charlottepics1 {display:flex;}
+.charlottecolumn {flex:20%; width:100%; padding: 5px;}
