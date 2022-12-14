@@ -27,11 +27,11 @@ h1, h2 {text-align: center;}
 
 
 .text {display:flex; flex-wrap: wrap}
-.welcome, .history {margin: auto; width: 500px; margin-bottom: 50px; justify-content: center; background-color: green; 
+.welcome, .history {margin: auto; width: 450px; margin-bottom: 50px; justify-content: center; background-color: green; 
     padding-left: 100px; padding-right: 100px; border-radius: 25%; flex-wrap: wrap}
 
-.welcome {margin-right: 50px;}
-.history {margin-left: 50px;}
+.welcome {margin-right: 40px;}
+.history {margin-left: 40px;}
 
 .links {display:flex; flex-wrap: wrap; margin: auto; width: 375px; padding-left: 50px; padding-bottom: 20px; background-color: green; border-radius: 25%; text-align: center;}
 li {color: floralwhite;}

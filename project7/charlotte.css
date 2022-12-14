@@ -66,7 +66,7 @@ h1, h2, h3 {text-align: center;}
 .skip {color: floralwhite;}
 
 .charlottetext {display:flex; flex-direction: row; flex-wrap: wrap;}
-.p1, .p2, .p3 {margin: auto; width: 600px}
+.p1, .p2, .p3 {margin: auto; width: 450px}
 .p2 {margin-top: 50px}
 
 .otherstuff {
